@@ -13,6 +13,9 @@ Overtime:
 Employee Card:
 <img width="1446" height="833" alt="image" src="https://github.com/user-attachments/assets/47edd13a-e18a-4f53-b5b7-795c1ef60741" />
 
+Forecasts:
+<img width="1471" height="838" alt="fc1" src="https://github.com/user-attachments/assets/136640fd-4ca9-42a5-87ce-5625de79c33e" />
+
 Project Info:
 <img width="1460" height="838" alt="image" src="https://github.com/user-attachments/assets/69281585-bb80-435b-9f67-c8fd25c52767" />
 
