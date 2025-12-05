@@ -1,4 +1,4 @@
-An example of a multi-page dashboard made in Power BI. Shows employee statistics for production, quality and overtime utilization of a fictional company.
+An example of a multi-page report made in Power BI. Shows employee statistics for production, quality and overtime utilization of a fictional company.
 Click [**HERE**](https://github.com/elbrina/bi-portfolio-examples/releases/download/bi_ex/PowerBI_Dashboard_ABC_PQO_1.pbix) to download the file **"PowerBI_Dashboard_ABC_PQO_1.pbix"** listed above to explore the report and data/semantic model directly in Power BI.
 
 Team Overview:
